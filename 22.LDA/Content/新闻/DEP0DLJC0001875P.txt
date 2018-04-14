@@ -1,0 +1,74 @@
+原始链接：http://news.163.com/18/0407/04/DEP0DLJC0001875P.html
+
+汽修店被指放任客户门外停车 城管带多人封门打人
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2018/4/E/3/VDDSHS6E3.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1804/07/DYnlB3503/SD/DYnlB3503-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+查汽修店占道起冲突，西安城管叫来“特勤队员”封门打人
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+查汽修店占道起冲突，西安城管叫来“特勤队员”封门打人
+（来源：~）
+
+昨日，一则网上流出的视频显示，一群身穿安保公司制服的男子冲入西安一家汽修店，将店内工人打倒。据称，带队者是一名身着城管制服的中年男子。昨晚，莲湖区桃园路街办回复称，特勤制服男子系城管协管人员，在执法中发生冲突。
+纠纷原因 汽修店被指放任客户门外违规停车
+“丰登南路汽修店发生城管打人事件了，伤者被打成脑震荡。”昨日，有市民向华商报反映，称在西安市莲湖区丰登南路西安米其林驰加店内，身穿特勤字样服装的安保人员与部分身着汽修厂工装的男子发生冲突。
+据介绍，这一过程中，店内黄海龙、徐雷超等4名员工先后在争执中受伤，其中黄海龙因倒地后被踹头部，伤情较重。
+昨日下午，华商报记者赶到事发汽修店，汽修店经理胡书美说，事件发生在上午9时许，当时桃园路街办工作人员来说最近上面检查，不要让人在门口停车。街办人员离开不久，那辆黑色特勤依维柯即开到店门口将门堵上，对方指着门外空地停着的一辆宝马车对该店工作人员进行指责。胡书美说，他们确实不知道那辆车是谁停的。员工提出把堵门的车移开，对方不但不移，还态度蛮横，双方遂发生争执，“没想到对方像早准备好的一样，冲进来就打人。”
+“我刚刚停在那里不久，我舅舅要去店里上个厕所。”华商报记者辗转联系到那辆宝马车的驾驶员寇先生，他表示以前曾在该店修过车，昨天上午经过这里，随行的舅舅想上厕所，因为熟悉就临时停车，不料停下不久就被那群穿特勤制服的人围住。他随即将车驶离，停在不远处的路边车位上，回来找舅舅时，看到了令他难以置信的一幕，“他们竟然冲进去打维修工，嘴里说着脏话。”
+监控显示 多名穿特勤制服男子由城管队员带队
+“这些人是安保公司的，还有两个穿便装的应该是城管。”汽修店一部门负责人小宁说，在此前的城管队员执法过程中，曾多次见到那两名便装男子乘城管车辆出现过，而门口的监控拍到了多名穿特勤制服男子从依维柯下来后，一名穿城管制服的中年男子打着电话下车，“好像就是他带队”。
+小宁说，门口停车的问题，此前确实有过，城管加强管理后，他们已在严格遵守。五六天前开始，每天有三四个穿特勤字样制服的人来到他们店门前，说是蹲点，每天还在店内喝水、上厕所，店里还为他们提供了凳子。“期间，他们曾有人进店对我说，让我们赶紧到城管中队去处理事。”小宁说，她不知道需要去城管队处理什么事，就询问对方，但对方只说到了队上就知道了，或者让她跟汽修店老板说这事，“后来才听他们说是城管队换了领导。”
+汽修店一员工被打后诊断为颅脑损伤
+据胡书美介绍，事发后，他们报了警，双方当事人均被带到公安莲湖分局桃园路派出所，“一个自称安保公司的人主动找我，说他们是城管队的外包人员”。
+昨日下午，华商报记者到桃园路派出所采访，对方让记者请示分局政工科，但该局政工科工作人员表示无法协调。随后记者来到桃园路城管中队，工作人员联系到中队长时，对方称正从派出所往回赶，但明确表示不接受采访，称此事由街办解释。
+“那些人到底跟城管中队啥关系我现在还不掌握。”街办负责城管工作的调研员杨学武表示，对于城管执法任务是否有外包他不知情，称现在警方已介入调查，“我们也会进行调查，去看望伤者，若真有违规违纪现象，我们会严肃处理。”
+昨日下午，伤者黄海龙在西电医院检查后诊断为颅脑损伤。“头有点发懵，视力稍微有点模糊。”黄海龙说。
+街办：特勤制服男子系城管协管人员 警方：是保安公司人员
+4月6日晚，桃园路街办连夜召开了党工委扩大会议，对此事件进行了通报，对后续工作进行部署安排。成立街道工作组，连夜对整个事件进行调查；特勤制服男子系城管协管人员，在执法中发生冲突。街道纪工委对执法中队班子进行约谈，对分管领导进行通报批评；积极配合公安机关依法进行调查，严肃处理；四是在街道执法中队中开展为期一个月的作风纪律大整顿活动；约谈当事门店主要负责人，严格规范门店经营秩序。

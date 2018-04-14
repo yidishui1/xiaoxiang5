@@ -1,0 +1,65 @@
+原始链接：http://news.163.com/18/0405/17/DEL6S2I70001899N.html
+
+美国俄州现大量"僵尸"浣熊 行为怪异引起民众恐慌
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2018/4/4/P/VDDNDCC4P.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1804/05/yJOVs0936/SD/yJOVs0936-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+美国俄州出现大量“僵尸”浣熊 引起民众恐慌纷纷报警
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+美国俄州出现大量“僵尸”浣熊 引起民众恐慌纷纷报警
+（来源：~）
+
+综合美联社、《华盛顿邮报》报道，美国俄亥俄州扬斯敦（Youngstown）警方正在调查该州东北部“僵尸”浣熊出没事件。据WKBN-TV电视台报道，在过去的三周内，杨斯敦警方接到了十几起报警电话，称浣熊在白天出没，行为怪异。
+72岁的摄影师罗伯特·科吉霍尔（Robert Coggeshall）说，他上周五在家外面玩的时候，突然一只浣熊靠近他们。科吉霍尔说，那只浣熊会用两条后腿站立，张牙咧嘴，然后向后倒下。
+据科吉霍尔讲述，是他的狗先发现浣熊，他赶紧把狗带回屋里，然后看到浣熊爬在他家玻璃门上，狗和浣熊就这样隔着门对坐着。
+科吉霍尔认为那只浣熊有问题，因为一般浣熊不会在光天化日之下出现。接下来发生的事也证实了这一点。当科吉霍尔试图赶走浣熊时，浣熊居然用两条后腿站立了起来，亮出锋利的白牙和粉红色的牙龈，还有唾液从嘴里滴下来。突然间，它向后倒下，昏迷了过去，但很快又醒了过来，重新站立起来。
+科吉霍尔是一位野生动物摄影师和博物学家，他花了两个小时的时间观察这只浣熊反复的发病，拍摄了大约250张浣熊的照片。
+该州自然资源部门表示，这些动物可能患有瘟热，而不是狂犬病。瘟热病会引起咳嗽、颤抖和癫痫，并导致浣熊失去对人类的恐惧。
+“浣熊真的很容易患上疾病，而且可能对种群造成毁灭性的影响，”俄亥俄州自然资源部门野生动物生物学家杰夫-韦斯特菲尔德（Geoff Westerfield）告诉WKBN-TV。他说，只要隔离、控制患病的动物，这种疾病最终会消失。

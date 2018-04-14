@@ -1,0 +1,71 @@
+原始链接：http://news.163.com/18/0406/20/DEO4BN7V0001875N.html
+
+商务部:若美国公布1000亿美元清单将毫不犹豫反击
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2018/4/0/4/VDDRMKF04.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1804/07/JuWUX4932/SD/JuWUX4932-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+商务部：中美未就经贸问题进行任何谈判
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+商务部：中美未就经贸问题进行任何谈判
+（来源：~）
+
+商务部新闻发言人 高峰
+今晚，中国商务部召开新闻发布会，商务部新闻发言人高峰回应相关热点问题。
+【中外媒体吹风会】:我们知道，美东时间4月5日，美国总统特朗普发布声明，考虑再对中国1000亿美元的出口商品加征关税，请问中方有何评论？
+【高峰】:非常抱歉，让大家久等了，因为中美经贸关系出现一些新的变化，商务部临时召开一个小型的记者吹风会，下面欢迎记者朋友们围绕着中美经贸关系提出问题。
+我们感到，美方的行为十分无理。美方严重错判了形势，采取了极其错误的行动，这种行动的结果就是“搬起石头砸自己的脚”。如果美方公布新增1000亿征税产品清单，中方已经做好充分的准备，将毫不犹豫、立刻进行大力度的反击。谢谢。
+【中国国际广播电台记者】:您认为这场所谓的贸易战的性质是什么？
+【高峰】:我们认为这是单边主义和多边主义之间的一场斗争，是保护主义和自由贸易之间的一场斗争。如果多边主义和自由贸易受到威胁，经济全球化的进程遭到破坏，整个世界经济复苏都会受到严重威胁，这既不利于中国的核心利益，更不利于全球的共同利益。面临这样的重大问题，我们必须坚决斗争。谢谢。
+【CNBC记者】:您下午时说过中国会采取新的综合应对措施，捍卫我们国家和人民的利益。新的综合措施包括哪些措施？另外，如果说中国也拿出一张清单来的话，这张清单会包括什么产品？
+【高峰】:刚才我已经说过，中方已经做好充分准备，如果美方公布新增1000亿的征税产品清单，我们将毫不犹豫立刻进行大力度的反击。我们不排除任何选项。谢谢。
+【中新社记者】:我们注意到，最近有美国高官说中美正在就贸易冲突进行谈判，请问商务部对此有何评论？谢谢。
+【高峰】:中方注意到，美方不同官员都表达了刚才你说的这个意思，但是这不符合实际情况。一段时间以来，双方的财经官员并没有就经贸问题进行任何谈判。美方公布301调查报告以及产品建议清单以后，中方予以坚决回应；美方再次提出增加1000亿征税商品，中方进行了更加坚定的回应；在这种情况下，双方更不可能就此问题进行任何的谈判。谢谢。
+【经济日报记者】:我的问题是，如果美方采取了进一步升级行动，你们会有什么措施？
+【高峰】:我们已经按照底线思维的方式，做好了应对美方进一步采取升级行动的准备，并已经拟定十分具体的反制措施。中国人的做事方式是，我们不会挑事，但如果有人挑事，我们会坚决应战。中国人办事历来是十分认真的，我们一定会说到做到。谢谢。

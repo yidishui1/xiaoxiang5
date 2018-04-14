@@ -1,0 +1,65 @@
+原始链接：http://news.163.com/18/0402/08/DECI14PA00018AOQ.html
+
+谢幕！天宫一号再入大气层 绝大部分器件烧蚀销毁
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2018/4/D/U/VDDEPQNDU.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1804/02/tObvo2083/SD/tObvo2083-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+谢幕！天宫一号目标飞行器再入大气层
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+谢幕！天宫一号目标飞行器再入大气层
+（来源：~）
+
+新华社北京4月2日电 记者2日从中国载人航天工程办公室了解到，经北京航天飞行控制中心和有关机构监测分析，4月2日8时15分左右，天宫一号目标飞行器已再入大气层，再入落区位于南太平洋中部区域，绝大部分器件在再入大气层过程中烧蚀销毁。
+“天宫一号”的太空之旅
+2011年9月29日21时16分，中国航天迎来了一个重要的时刻。重达八吨的“天宫一号”目标飞行器被长征二号FT1火箭托举升空。它的发射标志着中国拥有了自己的空间实验室，也在浩瀚宇宙中安下了第一个“中国之家”。
+2011年11月1日5时58分，承载着首次交会对接使命的“神舟八号”飞船按计划准时起飞，追逐“天宫一号”。“天宫一号”在刚升空不到3个月，就迎来了它的第一次挑战。
+2011年11月3日1时36分，神舟八号飞船经过5次变轨，经过接触、捕获、缓冲、校正、拉回等技术动作与“天宫一号”目标飞行器紧紧连接成一个组合体，中国载人航天首次空间交会对接试验获得成功。
+2012年6月18日14时左右，“天宫一号”再次迎来了一位新搭档，“神舟九号”飞船搭载3名航天员，与“天宫一号”实施了两次交会对接，第一次为自动交会对接，第二次由航天员手动控制完成。这一次，“天宫一号”迎来第一批中国航天员景海鹏、刘旺、刘洋，这一步，昭示着中国进入空间站时代。
+2013年6月，“天宫一号”目标飞行器与“神舟十号”飞船再次交会对接成功。而这堂特殊的“太空授课”，由女航天员王亚平主讲，指令长聂海胜辅助授课，张晓光担任摄像师。他们开展了一系列基础物理实验，展示了失重环境下物体运动特性、液体表面张力特性等物理现象，而这堂课也拉近了许多人与太空的距离，中华民族的太空梦，不知在这一刻，又会在多少人心中埋下了种子。

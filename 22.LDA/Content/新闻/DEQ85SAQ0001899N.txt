@@ -1,0 +1,63 @@
+原始链接：http://news.163.com/18/0407/16/DEQ85SAQ0001899N.html
+
+美国猪农喊话特朗普：我们要出口 加什么关税！
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2018/4/0/L/VDDSEJ80L.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1804/07/LShRm0043/SD/LShRm0043-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+美国猪农要凉凉，喊话特朗普：我们要出口！加什么关税！
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+美国猪农要凉凉，喊话特朗普：我们要出口！加什么关税！
+（来源：~）
+
+【环球网报道】4月2日，中方发布针对美国232措施的产品征税清单，对原产于美国的7类128项进口商品中止关税减让义务。此次中方发布的加征关税清单中，对猪肉及制品等8项进口商品加征关税税率为25%。美国农户如何看待由特朗普政府发起的中美贸易战？对特朗普调高关税有什么样的看法？对特朗普又有什么话要说？美国中文网记者日前走访了位于伊州南边的一家农户。
+美国中文网4月6日报道称，中国是伊州第二大猪肉出口国，一旦中国开始增收25%的进口关税，将影响当地2000多家养猪户的生计。
+伊利诺伊州威尔郡(Will County)农业局副局长史蒂夫·沃里克(Steve 
+Warrick)称，我们每年向中国出口价值6亿美元的猪肉，如果(中国)增加进口关税，会对美国农户带来负面影响，任何形式的增加关税对我来说都不好。这对美国农户的生存产生影响，很多农户将寸步难行。
+史蒂夫·沃里克称，在接下来的几周，我们会考虑是否继续养猪。就目前来说，我们需要根据数据来分析，利润空间还有多少。(我们)需要有利润，我们不想养殖了猪，但是没有带来利润。如果中国实施提高进口关税政策，我们则被迫重新考虑是否养猪。如果我们不再养猪，多数农户放弃养猪，猪肉的价格很可能上涨。

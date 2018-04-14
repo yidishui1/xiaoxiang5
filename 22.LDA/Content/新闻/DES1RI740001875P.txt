@@ -1,0 +1,98 @@
+原始链接：http://news.163.com/18/0408/09/DES1RI740001875P.html
+
+汽修店遭城管带队封门打人 西安市委常委发话了
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2018/4/E/3/VDDSHS6E3.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1804/07/DYnlB3503/SD/DYnlB3503-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+查汽修店占道起冲突，西安城管叫来“特勤队员”封门打人
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+查汽修店占道起冲突，西安城管叫来“特勤队员”封门打人
+（来源：~）
+
+4月6日，西安市莲湖区桃园路街道办事处城管中队协管人员在巡查中发现，丰登南路万达四轮定位轮胎店门前人行道有违法停车现象，在劝导该车驶离时，与店员发生冲突，多人受伤。
+华商记者从莲湖警方了解到，参与冲突的1人已被行政拘留，另有5人因在冲突中受伤有待进一步处理。
+桃园路街办再度解释称，学习外地城市管理经验，试点聘用第三方保安公司协助开展城市管理工作，试点时间短，协管队员缺乏工作经验，工作方法简单、劝导不规范，发生冲突。
+警方行政拘留1人
+另5名伤者治疗后或也被拘留
+昨日，华商记者从西安市公安局莲湖分局桃园路派出所了解到，事发后，民警将参与冲突的双方人员带回所里。经审查，双方有互殴动作，其中6人受伤。当晚，因涉嫌打架斗殴，城管协管队员林某被行政拘留。
+“另外几人身上有伤，需要治疗后再做进一步处理。”该所所长丁小飞表示，除林某外，还有2名城管协管，3名汽修店工人参与冲突，等几人伤情稳定后，这5人也或将面临拘留处罚。
+丁小飞说，经查，涉事安保公司为桃园路城管中队服务外包企业，双方系劳务关系，该公司资质完备。
+街办学外地经验
+试点聘第三方公司协助城市管理
+4月6日晚，桃园路街办曾召集各方当事人开会调查整个事件，经调查通报称，冲突系城管协管队员在劝导当事汽修店门外人行道违停车辆时与店方员工发生争执，进而发生冲突。然而，就一些细节问题却未进一步答复。
+昨日，多家媒体记者再次来到街办，但街办在开会。到了下午，街办先是确定一名副主任接受记者采访，后又临时换人，由街办党工委副书记王元出面念了一份材料，其内容大部分6日晚已通报过。
+材料中提到，事发汽修店长期占道洗车修车，执法中队于2017年10月2次行政处罚，执法中队于4月份4次到现场进行口头劝导和教育。2018年2月，街办学习徐州、深圳等地城市管理经验，试点聘用第三方保安公司协助开展城市管理工作。由于试点时间短，协管队员缺乏工作经验，造成了此次第三方外包服务公司协管人员在劝离车辆违停时，工作方法简单、劝导不规范，发生冲突纠纷。对此，必须在今后的工作中采取措施，加以改进，同时对有关责任人严肃处理。
+昨晚，桃园路街办主任杨建华说，桃园路街办辖区常住和流动人口20万左右，却只有十几名城管队员，管理工作繁杂，人员严重不足，于是学习外地经验购买服务。而当事保安公司两周前才开始参与桃园路街办城市管理工作，主要作用是壮声势、劝阻劝离、辅助性教育，目前双方尚未签订合约。
+该街办党工委书记刘宏武称，将审视与对方的合作关系，建议合作公司处理当事安保人员，并进一步规范合作保安公司行为。
+汽修店屡教不改？
+当事城管协管员提供多次纠违未果证据
+昨日，事发汽修店经理胡书美表示，6日晚，当事保安公司曾派员到店里向她道歉，但她并没有接受。
+在汽修店提供的监控视频中，依维柯停至店门口后，车上多人下车，最后一名是身着城管制服的城管队员。
+昨晚，华商报记者见到这名城管协管员任某，他向记者提供了多张近日拍摄于汽修店门口的照片。照片显示，该店外曾有多辆汽车停在店外接受服务，有车辆轮子被卸掉正处于维修之中，图片中可见有城管工作人员或身穿安保公司制服男子在现场，似乎在劝导店方非法占道行为。
+“他们多次占道屡劝不改，还对我们的协管进行辱骂。”任某说，6日上午事发时，他虽在现场，但在接听一个电话，只知道双方起了争执，但到底是哪一方先动手，他也没看到，“有执法记录仪，但当天有问题，没开。”
+昨日，华商报记者联系到当事和谐保安公司，一名工作人员表示，在冲突中他们多人受伤，其中一名武姓队员手部开放性创伤，受伤严重。而对于和桃园路街办的合作方式及报酬问题，这名工作人员称不便介绍。
+公安莲湖分局调查取证
+对事件涉及人员依法做出处理
+华商报记者从西安市政府办公厅了解到，桃园路街办城管协管人员与汽修店店员冲突事件已引发各级政府部门重视。
+事发后，公安莲湖分局第一时间介入。西安市莲湖区委书记和文全7日上午赶赴现场，调查了解情况，并在街道办召开专题会议安排舆情及处置问题。
+4月7日，西安市委常委聂仲秋批示并责成分管秘书长、市城管局局长召集市政府新闻办、莲湖区政府分管领导、莲湖区城管局、公安莲湖分局、桃园街办负责同志，专题研究问题处置情况，安排部署具体工作。
+当日的专题研讨会上，分管秘书长传达了聂仲秋关于积极妥善处置该冲突的指示精神，与会人员围绕舆情引导、问题处置、规范执法等事项进行了充分讨论。
+会议要求各相关单位高度重视后续处置工作，采取措施，做好处置工作。经研究，会议要求，由桃园街办会后迅速做出正面回应，做好与媒体的联系沟通工作，引导群众客观公正看待发生的问题；由市城管局负责对全市城市管理、执法监管、市容环卫外包服务做出规范；对于可能引发问题的重点地段和人群，进一步完善预案，有针对性采取防范应对措施；由公安莲湖分局负责，对该事件涉及人员进行调查取证，依法依规做出处理。
+>>律师说法
+安保人员行使执法权是不合法的
+陕西恒达律师事务所高级合伙人赵良善律师认为，目前，多地引进“城管外包”业务，虽备受争议，但法律并未明令禁止。“城管外包”的初衷是协管人员在城管的带领下从事城市管理工作。而在现实执法中，权责不一、权力滥用等问题层出不穷。
+赵良善认为，我国行政法明确规定，无国家职能部门执法主体的人和单位不能行使执法权，而服务外包当中往往无法掌握服务和执法的界限。
+陕西仁和万国律师事务所余伟安律师分析，这里面牵扯两个概念，一个政府职能部门的服务职能，一个是执法权的概念。从服务的角度来讲，国家2015年元月1日生效的《政府购买服务管理办法（暂行）》，规定政府可以将部分由政府职能部门行使的服务功能外包。但职能部门的执法权则只能由有执法主体资格的政府职能部门工作人员来行使，而不能外包给不具备执法资格的社会团体、企业去行使。
+余伟安表示，从整体事件来讲，安保公司工作人员与汽修厂工人发生肢体冲突，已经超越服务的界限，实际上在行使执法权，这是不合法的。
+“政府购买服务将服务外包是合法的，但政府职能部门将执法权外包是没有法律依据的。”余伟安说，城管在让安保公司提供服务的过程中，事实上放任对方行使了执法权，或者是安保公司自行越权行使了执法权，但不管怎样都是城管部门在服务外包过程中，在管理和监管上做的不到位。“也就是说以服务外包之名，行了执法权外包之实。”余伟安说，城管部门在服务外包的过程中，对安保公司服务和执法的界限不明，造成了安保公司事实上行使了执法权，也是要承担法律责任的。
+余伟安说，就城管的职能方面讲，将其服务功能外包，很难清晰区分执法与服务，很容易造成越俎代庖，在实际工作中违法行使执法权，“所以我个人认为城管这块儿服务外包应当十分谨慎，即便真的外包了，应当严格选用服务公司，严格监管，预防执法权冒用，否则将严重损害政府公信力。”
+>>相关链接
+深圳、郑州曾推“城管外包”因问题多被取消
+据了解，城管协管员最早在深圳出现是2007年。当时为了解决人手不足的问题，培育民营企业当“城市保姆”，购买社会服务。然而，在实施过程中很快出现了问题。2012年8月，公开的媒体报道中称，由于部分协管员涉黑欺行霸市，深圳取消“城管外包”。

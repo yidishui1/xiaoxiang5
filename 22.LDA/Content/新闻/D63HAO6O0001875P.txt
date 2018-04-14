@@ -1,0 +1,71 @@
+原始链接：http://news.163.com/17/1220/10/D63HAO6O0001875P.html
+
+曝南昌大学一女生遭副院长性侵7个月 多次试图轻生
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/12/Q/K/VD560HVQK.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1712/20/PpoUN7141/SD/PpoUN7141-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+女大学生称遭副院长长期性侵，学校调查
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+女大学生称遭副院长长期性侵，学校调查
+（来源：~）
+
+未来网北京12月20日电19日，一位微博名叫“喝咖啡的猫11”的网友在网上爆料称南昌大学国学院副院长性侵女学生。
+今日凌晨，南昌大学官方微博回复了此事，12月18日下午，学校收到一位女生托第三方送交的书面举报材料。19日，学校已成立了由纪检等部门组成的专门工作小组，并启动了查核程序。如果查证属实，学校将严肃处理，绝不姑息。
+以下为网友微博爆料原文:
+小柔（化名）是南昌大学国学院毕业的一名女学生，近日她爆料了一起关于她被南昌大学国学院副院长周某长期猥亵、性侵事件。
+据调查，南昌大学国学院建立于2009年，是南昌大学当时创办的特色学院，周某是2013年受聘开始担任该国学院副院长一职。据小柔描述，周某在校内创建了“师门”，“师门”中大部分都是女学生，且周某会运用各种名义（例如开车接送女学生上下学、请女学生吃饭、帮助女学生私下辅导等）接触长相漂亮的女生，诱使其加入“师门”。
+而后，开始对“师门”内的女生实施“套路”，如让“女弟子”给他点外卖、午休后去办公室叫他起床、帮他按摩等，一面宣扬自己德行高尚、一面讲述自己的风流过往。
+小柔就是被“套路”的女生之一，但令小柔没有想到的是，曾经被他尊敬爱戴的师傅周某，在2016年的某天中午对其“表白”，而后便强行搂抱亲吻，甚至在语言胁迫、肢体威胁之下，公然在女生面前玩弄性器官实施猥亵。
+由于长期对老师的遵从和周某的语言恐吓（如可以影响毕业、其亲属系黑社会头目），小柔在惊惶失措下并不敢报案。而后，周某利用小柔该心理，进一步对其多次实施性侵，时间持续七个月之久。
+直至毕业后，小柔出现了严重的创伤应激反应，痛不欲生，并多次试图轻生，而后经心理辅导师长期的创伤治疗后，才敢站出来发声、揭露此事。
+据小柔描述，此事发生之后，小柔曾试图与南昌大学国学院院长程某举报此事，然而程某在了解事态后，非但没有帮助小柔处理此事，反而要小柔顾及国学院名誉，要小柔平息此事。
+网传小柔与程某的聊天记录
+网传小柔与程某的聊天记录
+网传小柔与程某的聊天记录
